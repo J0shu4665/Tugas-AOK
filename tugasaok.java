@@ -6,7 +6,7 @@
             
     Scanner input = new Scanner(System.in);
 
-    //soal kesatu, membuat biner ke desimal.
+    //soal pertama, membuat biner ke desimal.
     //source https://www.duniailkom.com/latihan-kode-program-java-cara-konversi-biner-ke-desimal/
     
      
@@ -28,7 +28,7 @@
     System.out.println();
     //soal ke-1 end
 
-    //soal kedua, belum confirmed bakal dipake. 
+    //soal kedua
     //Source https://www.duniailkom.com/latihan-kode-program-java-cara-konversi-desimal-ke-biner/
     Scanner in = new Scanner(System.in);
        
@@ -53,7 +53,7 @@
    //soal 2 end
 
 
-   //soal ketiga. start. Biner ke hexa
+   //soal ketiga. Biner ke hexa
    Scanner scanner = new Scanner(System.in);
    System.out.println();
         System.out.print("Masukkan nomor biner: ");
@@ -89,7 +89,7 @@
         System.out.println("hexadecimalnya adalah: " + heks);
    //soal kelima end
 
-    //soal keenam Hexa ke desimal (belum pasti, pembahasan ada di docs)
+    //soal keenam Hexa ke desimal 
     System.out.println();
     Scanner hexkedec = new Scanner(System.in);
 
